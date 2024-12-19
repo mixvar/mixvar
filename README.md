@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌍 I am from Poland, but I like to travel & work across Europe
+- 🌍 I am based in Poland, but sometimes I like to travel & work across Europe
 - 👔 I am working as Senior Frontend Engineer @[VirtusLab](https://virtuslab.com/)
 - 🤓 I am proficient with Typescript, React & Node 
 - 👨‍🎓 I am learning [Three.js](https://threejs.org/)
